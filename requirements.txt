@@ -1,5 +1,5 @@
 
-streamlit
+streamlit==1.49.1
 
 matplotlib
 pandas version== 2.2.2
