@@ -39,34 +39,6 @@ The analysis is performed on the Churn\_Modelling.csv dataset, which contains re
 
 * Exited: This is the crucial binary variable we aim to predict. 1 indicates the customer has churned (closed their account), and 0 indicates they have not.
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
 ## **4\. Exploratory Data Analysis (EDA) \- Uncovering Insights**
 
 A thorough EDA was conducted to understand data distributions, identify outliers, and discover relationships between variables. This process is essential for informing our preprocessing and modeling strategies.
@@ -99,10 +71,6 @@ This involves analyzing pairs of variables to understand their relationship, par
 * **Categorical vs. Target**: We used crosstabulations and bar plots to see how churn rates differ across categories.  
   * ![][image4]
 
-
-  
-
-
   ![][image5]
 
   ![][image6]![][image7]![][image8]
@@ -118,8 +86,6 @@ This involves analyzing pairs of variables to understand their relationship, par
 
 #### This step analyzes the interactions between multiple variables at the same time.
 
-#### 
-
 #### **![][image11]**
 
 * #### **Pairplot Analysis**: A `pairplot` was used to visualize the relationships between all pairs of numerical features, with the points colored by the churn status (`Exited`).
@@ -127,8 +93,6 @@ This involves analyzing pairs of variables to understand their relationship, par
   * #### **Purpose**: To visually inspect how different combinations of features might separate the churned customers from the non-churned ones. It provides a high-level overview of complex interactions.
 
   * #### **Findings**: The pairplot reinforced findings from the bivariate analysis. For example, the scatter plot between `Age` and `Balance` showed a region with older customers and higher balances that had a denser concentration of churned customers (the orange dots).
-
-#### 
 
 #### **4.4. Correlation and Outlier Summary**
 
