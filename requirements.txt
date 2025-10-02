@@ -1,12 +1,12 @@
 
-streamlit==1.49.1
+streamlit
 
 matplotlib
-pandas version== 2.2.2
-numpy version== 2.0.2
-seaborn version== 0.13.2
-scikit-learn version== 1.6.1
-imbalanced-learn version== 0.14.0
-xgboost version== 3.0.4
-lightgbm version== 4.6.0
-joblib version: 1.5.1
+pandas 
+numpy 
+seaborn 
+scikit-learn 
+imbalanced-learn 
+xgboost 
+lightgbm 
+joblib 
