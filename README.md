@@ -1,10 +1,12 @@
-# **End-to-End Customer Churn Prediction: A Business-Centric Modeling Workflow**
+# **Customer Churn Prediction App(Based on a Business-Centric Modeling Workflow)**
 
 ## **1\. Project Objective and Problem Statement**
 
 In the highly competitive financial services sector, customer attrition, or "churn," represents a significant challenge to sustained profitability and market share. The primary objective of this project is to develop and validate a robust machine learning model capable of accurately identifying customers who are at a high risk of terminating their relationship with the bank.
 
 The project extends beyond simple classification. It aims to deliver a practical, data-driven tool that facilitates strategic business decisions. This is achieved by systematically evaluating model performance not just on technical metrics, but also on custom business-oriented scores. This enables a nuanced understanding of the trade-offs between various retention strategies, from broad-reach campaigns to highly targeted, cost-efficient interventions.
+
+Users can access the app by visiting: https://bank-customer-churn-predictor-ridham.streamlit.app/
 
 ## **2\. Initial Data Analysis and Key Findings**
 
